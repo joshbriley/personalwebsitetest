@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header { padding: 2.5rem 1rem; }
+.project-name { letter-spacing: 0.2px; }
+.main-content { font-size: 1.05rem; line-height: 1.65; max-width: 900px; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
