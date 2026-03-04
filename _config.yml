@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal
-title: Josh's homepage
-description: Just trying to make a personal website. 
+theme: jekyll-theme-cayman
+title: Josh Briley
+description: Computational Science Student 
+
+show_downloads: false
+
+github:
+  is_project_page: false
